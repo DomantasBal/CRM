@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# macOS system file
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
